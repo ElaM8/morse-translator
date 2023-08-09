@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-direction: column;
+  h1 {
+    padding: 20px;
+    color: deeppink;
+  }
+  span {
+    padding: 40px;
+  }
+  h2 {
+    padding:20px;
+  }
+  input {
+    height: 50px;
+    width: 350px;
+    margin: auto;
+    display: block;
+    background-color: white;
+    color: black;
+  }
+}
